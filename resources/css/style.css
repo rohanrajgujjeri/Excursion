@@ -21,3 +21,9 @@ color: #ffffff;
     font-size: 21px;
     color: grey;
     }
+    .header--main12 {
+        font-weight: normal;
+        font-size: 21px;
+        color: grey;
+        text-align: right;
+        }
